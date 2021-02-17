@@ -4,8 +4,11 @@ This repository helps standardize way designs are implemented across liberate sc
 
 ## Usage
 
-```js
+```sh
 npm install @libscie/design-library
+```
+
+```js
 const libscie = require('@libscie/design-library')
 // If you want to import only specific parts of the design library
 const {
@@ -15,4 +18,11 @@ const {
 
 ## Colors
 
+```js
+const background = libscie.colors.purple900
+const alternatively = colors.purple900
+```
+
 ![Color library cheatsheet](./color-cheatsheet.png)
+
+The name is the base color; the number indicates the XXX. The only exception is `white`, which replaces `mono100`.
