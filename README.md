@@ -25,4 +25,4 @@ const alternatively = colors.purple900
 
 ![Color library cheatsheet](./color-cheatsheet.png)
 
-The name is the base color; the number indicates the XXX. The only exception is `white`, which replaces `mono100`.
+The name is the base color; the number is the saturation, with base `500`. The only exception is `white`, which has no saturation and replaces `mono100`.
