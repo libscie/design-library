@@ -1,6 +1,9 @@
 # Design library <img src="https://raw.githubusercontent.com/libscie/design/main/libscie-logomark-1024-square.png" align="right" height="64" />
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository helps standardize way designs are implemented across liberate science projects. This makes it easier to propagate any changes to the design system, by simply updating this library.
@@ -14,9 +17,7 @@ npm install @libscie/design-library
 ```js
 const libscie = require('@libscie/design-library')
 // If you want to import only specific parts of the design library
-const {
-    colors
-} = require('@libscie/design-library')
+const { colors } = require('@libscie/design-library')
 ```
 
 ## Colors
