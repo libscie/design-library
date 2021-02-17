@@ -1,6 +1,6 @@
 # Design library <img src="https://raw.githubusercontent.com/libscie/design/main/libscie-logomark-1024-square.png" align="right" height="64" />
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository helps standardize way designs are implemented across liberate science projects. This makes it easier to propagate any changes to the design system, by simply updating this library.
@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://sobrakseaton.com"><img src="https://avatars.githubusercontent.com/u/28573875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Patrick Sobrak-Seaton</b></sub></a><br /><a href="#design-psobrakseaton" title="Design">🎨</a></td>
+    <td align="center"><a href="https://chjh.nl"><img src="https://avatars.githubusercontent.com/u/2946344?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Hartgerink</b></sub></a><br /><a href="https://github.com/libscie/design-library/commits?author=chartgerink" title="Code">💻</a> <a href="#maintenance-chartgerink" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
